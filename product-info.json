@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "model": "Men Navy Blue Solid Corode IDP Training Shoes",
+    "company": "Puma",
+    "price": "120"
+  },
+  {
+    "id": "2",
+    "model": "Men Black & Red Solid Cario IDP Training Shoes",
+    "company": "Adidas",
+    "price": "200"
+  },
+  {
+    "id": "3",
+    "model": "Men Black Mesh Running Shoes",
+    "company": "Nike",
+    "price": "120"
+  },
+  {
+    "id": "4",
+    "model": "Men Navy Blue Solid Running Shoes",
+    "company": "Apex",
+    "price": "150"
+  },
+  {
+    "id": "5",
+    "model": "Men Black & Red Textile Flyknit Walking Shoes",
+    "company": "Bata",
+    "price": "220"
+  }
+]
