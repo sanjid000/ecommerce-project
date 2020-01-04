@@ -367,7 +367,7 @@ AOS.init({
   }, 1000);
 })(jQuery);
 
-fetch("product-info.json")
+fetch("./product-info.json")
   .then(res => res.json())
   .then(res => {
     let output = "";
